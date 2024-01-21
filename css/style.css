@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-
-
-
 * {
     padding: 0px;
     margin: 0px;
@@ -55,7 +52,6 @@ section#redes-sociais img {
 section#redes-sociais {
     text-align: left;
 }
-
 
 section#redes-sociais img:hover {
     border: 2px solid white;
